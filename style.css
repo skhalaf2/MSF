@@ -1,3 +1,4 @@
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -15,38 +16,33 @@ a {
     width: 60px;
     background-color: white;
 }
-
-#image0 {
-	position: relative;
-	left:0px;
-	
+.background {
+    background-image: url(MSF2.jpg); 
+    color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-width: 100%;
+    background-height: 50%;
+    padding-bottom: 54.69%;
 }
 
-#image1{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 150px;
-    float:left;
-    
-}
-#image2 {
-    position: fixed;
-    bottom: 0;
-    left: 120px;
-    width: 150px;
-    float:left;
-}
-#header {
-    background-color:white;
-    color:black;
-    text-align:center;
-    padding:5px;
-}
-#footer {
+.footer {
     background-color:black;
     color:white;
     clear:both;
     text-align:center;
    padding:5px;	 	 
+}
+.header{
+    margin-bottom:-25px;
+    color: white;
+}
+
+.navbar-wrapper {
+    margin-top: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index:20;
 }
