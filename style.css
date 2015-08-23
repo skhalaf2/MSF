@@ -67,7 +67,7 @@ body {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 15px 0;
+        padding: 5px 0;
         border: 0;
         background-color: solid;
         -webkit-transition: padding .3s;
@@ -154,6 +154,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+    
 }
 
 #about {
