@@ -12,13 +12,13 @@ body {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica, Arial, cursive;
-    color: black ;
+    color: white ;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: red ;
+    color: #fed136 ;
 }
 
 .navbar-default .navbar-collapse {
@@ -67,9 +67,9 @@ body {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 15px 0;
         border: 0;
-        background-color: transparent;
+        background-color: solid;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
