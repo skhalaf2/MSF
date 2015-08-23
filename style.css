@@ -18,7 +18,7 @@ body {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fed136 ;
+    color: red ;
 }
 
 .navbar-default .navbar-collapse {
