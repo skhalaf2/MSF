@@ -18,7 +18,7 @@ body {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fed136 ;
+    color: red ;
 }
 
 .navbar-default .navbar-collapse {
@@ -67,7 +67,7 @@ body {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 15px 0;
+        padding: 5px 0;
         border: 0;
         background-color: solid;
         -webkit-transition: padding .3s;
@@ -154,10 +154,12 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+    
 }
 
-
-
+#about {
+    text-align: center; background-color: black; padding: 20px; margin-top: 0px;
+}
 
 
 
