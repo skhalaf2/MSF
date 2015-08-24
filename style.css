@@ -161,6 +161,9 @@ header .intro-text .intro-heading {
     text-align: center; background-color: black; padding: 20px; margin-top: 0px;
 }
 
+#ws {
+    background-color: black; padding: 20px; margin-top: 1px; text-indent: 20px;
+}
 
 
 
