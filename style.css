@@ -156,8 +156,9 @@ header .intro-text .intro-heading {
     }
 }
 
-
-
+#about {
+    text-align: center; background-color: black; padding: 20px; margin-top: 0px;
+}
 
 
 
