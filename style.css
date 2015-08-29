@@ -161,8 +161,8 @@ header .intro-text .intro-heading {
     text-align: center; background-color: #FFFFFF; padding: 20px; margin-top: 0px; color: black;
 }
 
-.support {
-    text-align: center; background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
+#support {
+    background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
 }
 
 .news {
@@ -178,7 +178,7 @@ header .intro-text .intro-heading {
 }
 
 .text {
-    float:left; padding-left:20px;  padding-right: 20px; margin-left: 20px; margin-right:20px;
+     padding-left:20px;  padding-right: 20px; margin-left: 20px; margin-right:20px;
 }
 
 #pic {
@@ -195,12 +195,26 @@ header .intro-text .intro-heading {
 }
 
 .footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-   padding:5px;	 	 
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;	 	 
 }
 
+#support-img3 p {
+    display: inline;
+    padding: 15px 0px;
+}
+
+.service-heading {
+    text-align: center;
+}
+
+#donate {
+    padding: 15px;
+    display: inline;
+    text-align: center;
+}
 
 
