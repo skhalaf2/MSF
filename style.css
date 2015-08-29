@@ -12,7 +12,7 @@ body {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica, Arial, cursive;
-    color: white ;
+    color: white;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
@@ -50,7 +50,7 @@ body {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: red;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -158,11 +158,19 @@ header .intro-text .intro-heading {
 }
 
 #about {
+<<<<<<< HEAD
     text-align: center; background-color: #FFFFFF; padding: 20px; margin-top: 0px; color: black;
 }
 
 #support {
     text-align: center; background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
+=======
+    text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
+}
+
+.news {
+    text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
+>>>>>>> origin/master
 }
 
 #ws {
