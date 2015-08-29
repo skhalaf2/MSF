@@ -158,19 +158,15 @@ header .intro-text .intro-heading {
 }
 
 #about {
-<<<<<<< HEAD
     text-align: center; background-color: #FFFFFF; padding: 20px; margin-top: 0px; color: black;
 }
 
 #support {
     text-align: center; background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
-=======
-    text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
 }
 
 .news {
     text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
->>>>>>> origin/master
 }
 
 #ws {
