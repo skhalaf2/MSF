@@ -18,7 +18,7 @@ body {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: red ;
+    color: #D31D08 ;
 }
 
 .navbar-default .navbar-collapse {
@@ -44,13 +44,13 @@ body {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #D31D08;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: red;
+    color: white;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -178,7 +178,7 @@ header .intro-text .intro-heading {
 }
 
 .color {
-    color: #A61A0F;
+    color: #D31D08;
 }
 
 .text {
@@ -212,8 +212,9 @@ header .intro-text .intro-heading {
 }
 
 .service-heading {
+    color: #D31D08;
     text-align: center;
-    padding-top: 15px
+    padding-top: 10px
 }
 
 #donate {
