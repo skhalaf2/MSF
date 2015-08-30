@@ -181,9 +181,22 @@ header .intro-text .intro-heading {
     color: #A61A0F;
 }
 
+.text {
+    float:left; padding-left:20px;  padding-right: 20px; margin-left: 20px; margin-right:20px;
+}
 
+#pic {
+    float: left; 
+}
 
+#content {
+    display:inline;
+}
 
+#picture {
+    float: left;
+    margin-left: 20px;
+}
 
 .footer {
     background-color:black;
