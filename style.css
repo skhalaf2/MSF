@@ -169,6 +169,10 @@ header .intro-text .intro-heading {
     text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
 }
 
+.ourwork {
+     text-align: center; background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
+}
+
 #ws {
     background-color: white; padding: 20px; margin-top: 1px; text-indent: 20px; padding-left: 20px; 
 }
