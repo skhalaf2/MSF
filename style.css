@@ -158,15 +158,15 @@ header .intro-text .intro-heading {
 }
 
 #about {
-    text-align: center; background-color: black; padding: 20px; margin-top: 0px;
+    text-align: center; background-color: gray; padding: 20px; margin-top: 0px;
 }
 
 #ws {
-    background-color: black; padding: 20px; margin-top: 1px; text-indent: 20px; padding-left: 20px; 
+    background-color: white; padding: 20px; margin-top: 1px; text-indent: 20px; padding-left: 20px; 
 }
 
 .color {
-    color: red;
+    color: #A61A0F;
 }
 
 
