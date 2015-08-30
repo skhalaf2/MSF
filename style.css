@@ -171,6 +171,8 @@ header {
 
 .color {
     color: #D31D08;
+    cursor: pointer;
+    display: inline;
 }
 
 .text {
@@ -221,6 +223,4 @@ header {
     font-size: 18px;
     color: black;
 }
-
-
 
