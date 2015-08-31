@@ -157,7 +157,7 @@ header {
     background-color: #F7F7F7; padding: 20px; margin-top: 0px; color: black;
 }
 
-.news {
+#gallery {
     text-align: center; background-color: white; padding: 20px; margin-top: 0px; color: black;
 }
 
@@ -221,4 +221,6 @@ header {
     font-size: 18px;
     color: black;
 }
+
+
 
