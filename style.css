@@ -224,3 +224,6 @@ header {
     color: black;
 }
 
+.col-md-4 {
+    text-align: center;
+}
