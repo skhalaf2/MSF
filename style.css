@@ -10,6 +10,10 @@ body {
 
 }
 
+.navbar-top {
+    color: #black;
+}
+
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica, Arial, cursive;
     color: white;
@@ -26,17 +30,17 @@ body {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: white;
+    background-color: white;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fed136;
+    background-color: whhite;
 }
 
 .navbar-default .nav li a {
@@ -106,7 +110,9 @@ body {
     height: auto;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
+
 }
+
 
 header {
     height: 100vh;
@@ -224,3 +230,6 @@ header {
     color: black;
 }
 
+.col-md-4 {
+    text-align: center;
+}
