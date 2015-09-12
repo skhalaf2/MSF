@@ -7,6 +7,9 @@ body {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    border: solid thick black;
+    border-radius: 0em 
+
 
 }
 
@@ -232,4 +235,3 @@ header {
 
 .col-md-4 {
     text-align: center;
-}
